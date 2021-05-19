@@ -1,0 +1,6 @@
+Bienvenidx al juego mas padre de Linux para aprender BASH.
+Tu mision, si decides aceptarla, sera llegar a la pregunta diez sin sudar ni una gota.
+
+Pregunta 0: 
+¿Aceptas el reto? s/n
+
