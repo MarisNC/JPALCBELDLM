@@ -1,0 +1,5 @@
+
+
+Pregunta 2:
+Existen estas dos variables: OPCION1 y OPCION2
+Utiliza el comando echo <OPCION> para imprimir el valor de la variable que quieras:
