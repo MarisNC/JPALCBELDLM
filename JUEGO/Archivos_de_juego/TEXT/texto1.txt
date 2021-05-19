@@ -1,0 +1,9 @@
+
+
+Pregunta 1:
+Estos son los directorios que existen:
+CD
+CHMOD
+LS
+
+¿Cuál de estos comandos permite cambiar entre directorios? Dirígete al directorio con el nombre del comando.
