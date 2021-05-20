@@ -23,6 +23,6 @@ El simbolo del peso despues del echo significa que imprime el valor de esa varia
 Usa las comillas dobles para declarar strings o comparar valores numericos con variables. 
 Usa las comillas simples para encerrar frases sin embargo todo lo que esta dentro de las comillas simples es tomado literalmente.
 
-Ahora est[as listo para programar.
+Ahora estas listx para programar.
 
 Probablemente...
