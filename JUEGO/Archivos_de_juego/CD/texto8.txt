@@ -1,0 +1,8 @@
+
+
+Pregunta 8:
+
+Quiero recordarte que entre nosotros, tú no tienes poder aquí, pero como soy buena onda te enseñaré a ganar un poco.
+Conviértete en root con el comando “sudo -i” o “sudo su”.
+El comando sudo permite a los usuarios no root ejecutar comandos que normalmente requerirían privilegios de superusuario.
+Elige bien porque uno te convierte directamente en superusuario hasta terminar con la consola y el otro te da acceso temporalmente.

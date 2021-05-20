@@ -1,0 +1,13 @@
+
+
+¡Buen trabajo! ¿Qué quieres? ¿Una medalla? ¿Un trofeo?
+Mejor apúrate a acabar el juego, te estás tardando.
+
+Pregunta 3:
+Crea un archivo con el comando “nano” que se llame: “Diario.sh”.
+Te permitira abrir en la misma consola el editor de texto y editar los archivos que se te ocurran.
+En fin, en este archivo anotarás tu progreso, sueños, ilusiones y objetivos en la vida.
+Eres libre de escribir lo que quieras.
+Cuando termines de usarlo, teclea Ctrl+X para salir y guardarlo.
+No olvides ponerle el nombre "Diario.sh"
+
