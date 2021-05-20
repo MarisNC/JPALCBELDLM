@@ -2,7 +2,8 @@
 
 # Este archivo CONFIDENCIAL devuelve la serie de numeros que el presidente
 # de Linux usa para mandar lanzar los misiles nucleares. Sin emabargo hay
-# errores en las lineas comentadas ademas de que falta una linea.
+# errores en las lineas comentadas al final con ##.
+# Cabe recalcar que falta tambien una linea de codigo por ahi.
 
 arreglo=( 7 8 3 1 -1 -2 -2 )
 contador=0
