@@ -1,0 +1,28 @@
+Ah, sólo eras tú.
+
+¿Sabes qué? Preferimos al hacker.
+
+Pregunta 6:
+
+Abre el archivo “CONFIDENCIAL.sh” y corrige el error que encuentres.
+Una vez que termines de editar escribe “ejecutar”.
+Recuerda que existen los siguientes comandos:
+
+	comando   significado
+	-gt	    mayor
+	-lt	    menor
+	-ge	    mayor o igual
+	-le	    menor o igual
+	-eq	    igual
+	-ne	    distinto
+
+Date cuenta que [[ 001 = 1 ]] es falso mientras que [[ 001 -eq 1 ]] es cierto. Dependiendo del tipo de comparacion
+haz uso de corchete simple o doble. Mucho ojo con los espacios. ¡Son indispensables dentro de las comparaciones!
+Para el uso de expresiones aritmeticas utiliza los parentesis doble ((expression)), esto aplica para operaciones y comparaciones.
+El simbolo del peso despues del echo significa que imprime el valor de esa variable.
+Usa las comillas dobles para declarar strings o comparar valores numericos con variables. 
+Usa las comillas simples para encerrar frases sin embargo todo lo que esta dentro de las comillas simples es tomado literalmente.
+
+Ahora est[as listo para programar.
+
+Probablemente...
