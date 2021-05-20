@@ -25,7 +25,7 @@ while true; do
 			then
 				ps aux
 			else
-				echo "comando erroneo"
+				echo "Comando erroneo"
 			fi
 		
 		elif [ "$key100" == "kill" ]
@@ -55,7 +55,7 @@ while true; do
 					kill $key101
 					break
 				else
-					echo "Mirenlo, se hace llamar SysAdmin pero mas bien es SysAdmenso"
+					echo -e " \nMirenlo, se hace llamar SysAdmin pero mas bien es SysAdmenso"
 				fi	
 				
 			fi		
