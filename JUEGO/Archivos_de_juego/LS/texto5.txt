@@ -1,0 +1,25 @@
+Acabamos de matar tus sueños.
+¿Vas a llorar o vas a continuar con la pregunta 5? 
+
+Pregunta 5:
+ALERTA DE HACKER       
+
+¡Buen intento HAx0r!
+
+No puedes ver esta pregunta porque no tienes los permisos.
+Cada archivo cuenta con una serie de permisos, dependiendo de si eres el propietario, miembro de un grupo o simplemente por ser usuario.
+Dependiendo del tipo de permiso que tengas podras leer, editar o ejecutar un archivo.
+
+Los caracteres que definen estos permisos son los siguientes:
+     
+     Caracter   Permiso
+	–	Sin permiso
+	r	Permiso de lectura
+	w	Permiso de escritura
+	x	Permiso de ejecución
+
+Como te habras imaginado hay comandos para editar dichos permisos, uno de ellos es chmod seguido de un + o un - y el caracter del tipo de
+permiso que le quieras dar al archivo.
+
+Ahora que sabes esto...No se te ocurra EJECUTAR el archivo “CONFIDENCIAL.sh”
+

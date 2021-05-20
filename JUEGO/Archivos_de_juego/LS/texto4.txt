@@ -1,0 +1,16 @@
+
+¡Excelente! Pero, ¿por qué creíste que a Linux le interesaría almacenar tu diario? 
+
+Pregunta 4:
+Bienvenidx a procesos
+Por si no lo sabes un proceso es una instancia de un programa en ejecución, es decir un programa que esta corriendo.
+Cada proceso cuenta con un numero de identificacion unico llamado pid (Process ID).
+Los siguientes comandos te permiten ver el PID de un proceso: ps, ps aux, top, man, etc.
+En ocaciones habra tantos procesos corriendo en tu computadora que sera necesario eliminarlos.
+Para ello puedes utilizar el comando kill y matar al proceso por medio de su pid.
+
+Ya sabes distintos comandos que puedes usar para buscar procesos, sin embargo te ensenaremos a usar grep con ps aux.
+
+Busca y mata el proceso "sleep 20000" por medio del comando " ps aux | grep sleep "
+
+
