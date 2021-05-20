@@ -1,0 +1,16 @@
+
+Pregunta 9:
+
+Veo que te hacen falta un par de amigos. Crea un usuario con el nombre de tu elección.
+Para realizar algunas acciones en Linux necesitas tener permisos de usuario, para eso se puede usar “sudo” antes del comando que quieras emplear.
+Otra opción es acceder desde root, pero es un poco más laborioso.
+
+Al crear un usuario, necesitas ciertos datos:
+
+a)Nombre del usuario
+b)Password
+c)Nombre completo de tu usuario
+c)Informacion general sobre el usuario
+
+Usa el comando: adduser <nombre de usuario> y llena la informacion de tu primer amigo
+

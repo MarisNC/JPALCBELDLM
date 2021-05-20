@@ -1,0 +1,6 @@
+
+Pregunta 7:
+
+Has avanzado mucho guerrerx, tómate un descanso del tiempo que quieras.
+Utiliza el comando sleep <numero de segundos> para suspender este proceso durante ese tiempo.
+
